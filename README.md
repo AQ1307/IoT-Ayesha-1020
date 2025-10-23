@@ -1,19 +1,19 @@
-# 🌐 Embedded IoT Lab Work – Ayesha (23-NTU-CS-1020)
+# Embedded IoT Lab Work – Ayesha (23-NTU-CS-1020)
 
 This repository contains my weekly lab tasks and assignments for the **Embedded IoT** course.  
 Each week focuses on practical experiments using **ESP32**, **OLED display**, **LEDs**, **Buzzers**, and various **sensors**.
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
-### 📝 Assignment
+### Assignment
 Contains the written assignment file.
 - **Ayesha(1020).docx**
 
 ---
 
-### 📦 Week 4
+###  Week 4
 Focus: **OLED Display Programming**
 
 Includes:
@@ -25,7 +25,7 @@ Includes:
 
 ---
 
-### 💡 Week 5
+###  Week 5
 Focus: **LED and Buzzer Control with PWM**
 
 Includes:
@@ -35,7 +35,7 @@ Includes:
 
 ---
 
-### 🌡️ Week 6
+###  Week 6
 Focus: **Sensors Integration (DHT & LDR)**
 
 Includes:
@@ -45,7 +45,7 @@ Includes:
 
 ---
 
-## ⚙️ Hardware Used
+##  Hardware Used
 - ESP32 Development Board  
 - OLED Display (SSD1306)  
 - DHT22 Temperature & Humidity Sensor  
@@ -54,7 +54,7 @@ Includes:
 
 ---
 
-## 🧠 Learning Outcomes
+##  Learning Outcomes
 - Interfacing sensors and actuators with ESP32  
 - Using PWM signals for LED and buzzer control  
 - Displaying data on OLED using I2C communication  
@@ -62,6 +62,6 @@ Includes:
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Ayesha (23-NTU-CS-1020)**  
 BS Computer Science – National Textile University, Faisalabad  
