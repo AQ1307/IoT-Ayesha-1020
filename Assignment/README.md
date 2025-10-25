@@ -67,7 +67,25 @@ Control LEDs in multiple modes and see the current mode on the OLED.
 Task A:   https://wokwi.com/projects/445625588391625729
 Task B:   https://wokwi.com/projects/445499738958735361
 
+---
+
+## **Pin Map**
 <img width="481" height="391" alt="TASK A" src="https://github.com/user-attachments/assets/1e7d03a9-fc28-4871-b9d0-312910c1a3fe" />
 <img width="480" height="339" alt="TASK B" src="https://github.com/user-attachments/assets/dfb982df-e808-4709-b87b-2d2f4394975a" />
 
+## **Screenshot**
+**Task A**
+Both off:
+<img width="474" height="342" alt="both off" src="https://github.com/user-attachments/assets/da9ddd0a-9c59-4616-bbcb-ae090bcebe24" />
+LED blink:
+<img width="477" height="341" alt="led blink" src="https://github.com/user-attachments/assets/f27ac037-49e2-443a-983e-81ad73ba379a" />
+Both ON:
+<img width="480" height="344" alt="both on" src="https://github.com/user-attachments/assets/df1bc4f3-9401-4537-95b8-1aead1b264c3" />
+PWM fade:
+<img width="477" height="343" alt="pwm fade" src="https://github.com/user-attachments/assets/a7dd2acd-d765-47db-a80f-a8d0870e3f06" />
 
+**Task B**
+Toggle LED:
+<img width="945" height="830" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/da9e1ea4-8f7b-48cd-9628-3c887d762ebf" />
+Buzzer:
+<img width="949" height="781" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/9b1c30e8-4106-4313-ae99-c8c47ac49545" />
