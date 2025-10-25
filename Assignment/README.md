@@ -62,3 +62,12 @@ Control LEDs in multiple modes and see the current mode on the OLED.
 5. Press **Button 2** to reset LEDs to OFF.  
 
 ---
+
+## **Wokwi Link**
+Task A:   https://wokwi.com/projects/445625588391625729
+Task B:   https://wokwi.com/projects/445499738958735361
+
+<img width="481" height="391" alt="TASK A" src="https://github.com/user-attachments/assets/1e7d03a9-fc28-4871-b9d0-312910c1a3fe" />
+<img width="480" height="339" alt="TASK B" src="https://github.com/user-attachments/assets/dfb982df-e808-4709-b87b-2d2f4394975a" />
+
+
