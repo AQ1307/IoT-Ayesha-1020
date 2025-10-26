@@ -1,4 +1,4 @@
-# Embedded IoT Lab Work – Ayesha (23-NTU-CS-1020)
+# Embedded IoT Work – Ayesha (23-NTU-CS-1020)
 
 This repository contains my weekly lab tasks and assignments for the **Embedded IoT** course.  
 Each week focuses on practical experiments using **ESP32**, **OLED display**, **LEDs**, **Buzzers**, and various **sensors**.
