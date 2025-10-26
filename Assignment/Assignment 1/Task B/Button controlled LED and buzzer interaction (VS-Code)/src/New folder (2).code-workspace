@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "Button controlled LED and buzzer interaction",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
