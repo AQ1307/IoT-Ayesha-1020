@@ -45,6 +45,62 @@ Includes:
 
 ---
 
+### Week 9
+Focus: **ESP32 WiFi & Web Server**
+
+Includes:
+- `wifi_connection.ino` – Connecting ESP32 to WiFi and displaying IP address  
+- `wifi_scan.ino` – Scanning and listing available WiFi networks  
+- `esp32_webserver_led.ino` – Creating a web server to control built-in LED using a browser  
+
+---
+
+### Week 10
+Focus: **DHT11 Sensor with OLED & Web Server**
+
+Includes:
+- `dht11_oled_button.ino` – Reading temperature and humidity from DHT11 using a push button and displaying values on OLED  
+- `dht11_webserver.ino` – Displaying DHT11 temperature and humidity on both OLED and a web page using ESP32 web server  
+
+---
+
+### Week 12
+Focus: **Blynk Simulation with Wokwi**
+
+Includes:
+- `blynk_wokwi_dht22.ino` – Reading temperature and humidity from DHT22, monitoring button state, and displaying values on OLED and blynk  
+
+---
+
+### Week 13
+Focus: **MQTT Communication (Publisher & Subscriber)**
+
+Includes:
+- `mqtt_publisher_dht22.ino` – Publishing DHT22 temperature and humidity data to MQTT broker topics using ESP32  
+- `mqtt_subscriber_oled.ino` – Subscribing to MQTT temperature topic and displaying received data on OLED  
+
+---
+
+### Week 14
+Focus: **MQTT One Publisher – Multiple Subscribers**
+
+Includes:
+- `mqtt_publisher.ino` – Publishing sensor data to MQTT broker from a single ESP32 publisher  
+- `mqtt_subscriber_1.ino` – First subscriber receiving and displaying published data  
+- `mqtt_subscriber_2.ino` – Second subscriber receiving the same data from the publisher  
+
+---
+
+### Week 15
+Focus: **Node-RED Dashboard with MQTT**
+
+Includes:
+- MQTT integration between ESP32 publisher and subscriber nodes in Node-RED  
+- Visualization of sensor data on a Node-RED dashboard using MQTT topics  
+- Real-time monitoring of published data through Node-RED UI  
+
+---
+
 ##  Hardware Used
 - ESP32 Development Board  
 - OLED Display (SSD1306)  
