@@ -78,7 +78,7 @@ Includes:
 Focus: **Blynk Simulation with Wokwi**
 
 Includes:
-- `blynk_wokwi_dht22.ino` – Reading temperature and humidity from DHT22, monitoring button state, and displaying values on OLED and blynk  
+- `blynk_wokwi_dht11.ino` – Reading temperature and humidity from DHT11, monitoring button state, and displaying values on OLED and blynk  
 
 ---
 
@@ -86,7 +86,7 @@ Includes:
 Focus: **MQTT Communication (Publisher & Subscriber)**
 
 Includes:
-- `mqtt_publisher_dht22.ino` – Publishing DHT22 temperature and humidity data to MQTT broker topics using ESP32  
+- `mqtt_publisher_dht11.ino` – Publishing DHT11 temperature and humidity data to MQTT broker topics using ESP32  
 - `mqtt_subscriber_oled.ino` – Subscribing to MQTT temperature topic and displaying received data on OLED  
 
 ---
@@ -114,7 +114,7 @@ Includes:
 ##  Hardware Used
 - ESP32 Development Board  
 - OLED Display (SSD1306)  
-- DHT22 Temperature & Humidity Sensor  
+- DHT11 Temperature & Humidity Sensor  
 - LDR (Light Dependent Resistor)  
 - LED & Buzzer Modules  
 
