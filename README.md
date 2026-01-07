@@ -13,6 +13,16 @@ Contains the written assignment file.
 
 ---
 
+### Embedded IoT Project
+Focus: **Complete Project Demonstration**
+
+Includes:
+- `Project Video` – Demonstrates the working of the Embedded IoT project  
+- `Documentation` – Screenshots of working system, architecture diagram, flowchart, and project explanation  
+- `Project PPT` – Describes code functionality and working logic  
+
+---
+
 ###  Week 4
 Focus: **OLED Display Programming**
 
